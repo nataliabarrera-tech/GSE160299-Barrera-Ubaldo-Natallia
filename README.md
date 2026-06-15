@@ -17,7 +17,7 @@ Este repositorio contiene un flujo de trabajo optimizado en R para la descarga, 
 
 A continuación se presenta la gráfica de volcán obtenida, donde se destacan los genes significativamente sobreexpresados (**Upregulated** en rojo) y subexpresados (**Downregulated** en azul):
 
-![Volcano Plot](results/volcano_plot.png)
+![Volcano Plot](volcano_plot.png)
 
 ## 🛠️ Requisitos
 El script fue ejecutado utilizando R 4.6.0 y requiere los siguientes paquetes instalados:
